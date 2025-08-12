@@ -1,0 +1,125 @@
+body {
+  font-family: Courier;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  color: #555;
+
+  background-color: #fff;
+}
+
+header {
+  background-color:white; 
+  font-family: Courier;
+  color: #59326B;
+  text-align:center;
+}
+
+h1 {
+	text-align: left;
+	font-family: Courier;
+	color: #fff;
+}
+.img1 {
+  float:top;
+  float:left;
+}
+
+.img3 {
+  float:top;
+margin:auto;
+}
+
+.img2 {
+  vertical-align:top;
+  float:right;
+}
+
+nav a {
+  margin: 0 15px;
+  color: #59326B;
+  text-align:right;
+  text-decoration: none;
+}
+
+.hero {
+  background-color: #fffff;
+  text-align:center; 
+  font-family: Courier;
+  color: #59326B;
+  padding: 3em 1em;
+}
+
+.book-btn {
+  background-color:#59326B;
+  color: white;
+  padding: 0.8em 1.5em;
+  text-decoration: none;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 1em;
+}
+
+.about{
+  background-color: #59326B;
+  font-size:24px;
+  text-align:left;
+  color:white;
+  width: 100%;
+  height: 450px;
+}
+
+.services{
+  background-color:white;
+  text-align:left;
+  font-size:24px;
+  color:#59326B;
+  width: 100%;
+  float:left;
+  margin: auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 0.5em 0;
+}
+
+img {
+  width: 100%;
+  max-width: 600px;
+}
+
+footer {
+  background-color: #59326B;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+
+div.scroll-container {
+  background-color: #fff;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+
+form{
+	color:white;
+	font:Courier;
+	font-size:24px;
+	background-color:#59326B;
+}
+h3{
+	background-color:#59326B;
+	font:Courier;
+	font-size:28px;
+}
