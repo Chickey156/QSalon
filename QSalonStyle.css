@@ -20,6 +20,13 @@ h1 {
 	font-family: Courier;
 	color: #fff;
 }
+
+h3 {
+	text-align: left;
+	font-family: Courier;
+	font-size:28px;
+	color: #59326B;
+}
 .img1 {
   float:top;
   float:left;
@@ -117,9 +124,4 @@ form{
 	font:Courier;
 	font-size:24px;
 	background-color:#59326B;
-}
-h3{
-	background-color:#59326B;
-	font:Courier;
-	font-size:28px;
 }
